@@ -10,5 +10,5 @@ If you see a "Windows Defender" warning, click "More info" → "Run anyway".
 Download here https://github.com/Sripathi69/Citation-Tool/releases/download/v1.0.0/citation_tool.exe
 
 
-[▶️ Watch the demo video](https://youtu.be/OhJSMvgYQek)
+[▶️ Watch the demo video](https://youtu.be/T6lwjr8gAiA)
 
