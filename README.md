@@ -7,7 +7,7 @@ No Python installation required. Just double click and run
 
 If you see a "Windows Defender" warning, click "More info" → "Run anyway".
 
-Download here https://github.com/Sripathi69/Citation-Tool/releases/download/v1.0.0/citation_tool.exe
+Download here https://github.com/Sripathi69/Citation-Tool/releases/download/v1.0.1/citation_tool.exe
 
 
 [▶️ Watch the demo video](https://youtu.be/GzIss0YGMOg)
